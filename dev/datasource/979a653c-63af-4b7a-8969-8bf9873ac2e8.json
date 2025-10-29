@@ -1,0 +1,1 @@
+{"resourceType":"datasource","dataSourceId":"979a653c-63af-4b7a-8969-8bf9873ac2e8","name":"dvdrental_staging","type":"AURORA_POSTGRESQL","dataSourceParameters":{"auroraPostgreSqlParameters":{"host":"quicksight-test-cluster.cluster-ctgpmz0o4wpy.eu-west-1.rds.amazonaws.com","port":5432,"database":"dvdrental_staging"}},"sslProperties":{"disableSsl":false}}
