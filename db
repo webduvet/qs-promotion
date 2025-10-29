@@ -1,0 +1,20 @@
+Source
+Aurora
+
+Name
+dvdrental_prod
+
+Last modified
+Fri Oct 24 2025
+
+Instance connection type
+PostgreSQL
+
+Database server
+quicksight-test-cluster.cluster-ctgpmz0o4wpy.eu-west-1.rds.amazonaws.com
+
+Database name
+dvdrental_prod
+
+Port
+5432
